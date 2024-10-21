@@ -1,4 +1,4 @@
-Hello Git and Githu
+Hello Git and Github
 
 
 Kebook is the best!!!!!!!!!
